@@ -1,0 +1,101 @@
+{
+    "CarBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-0.onnx",
+                "reward": null,
+                "creation_time": 1726945316.538763,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-0.onnx",
+                "reward": null,
+                "creation_time": 1726945551.8535063,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-0.pt"
+                ]
+            },
+            {
+                "steps": 999964,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-999964.onnx",
+                "reward": 51.685519993305206,
+                "creation_time": 1726947645.520711,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-999964.pt"
+                ]
+            },
+            {
+                "steps": 1999987,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-1999987.onnx",
+                "reward": 62.571984926859535,
+                "creation_time": 1726948380.2719355,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-1999987.pt"
+                ]
+            },
+            {
+                "steps": 2999804,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-2999804.onnx",
+                "reward": 85.86497167440561,
+                "creation_time": 1726949714.1775393,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-2999804.pt"
+                ]
+            },
+            {
+                "steps": 3999904,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-3999904.onnx",
+                "reward": 48.66814708709717,
+                "creation_time": 1726950535.0130746,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-3999904.pt"
+                ]
+            },
+            {
+                "steps": 4999792,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-4999792.onnx",
+                "reward": 23.69149875640869,
+                "creation_time": 1726951395.201969,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-4999792.pt"
+                ]
+            },
+            {
+                "steps": 5999936,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-5999936.onnx",
+                "reward": -114.69281768798828,
+                "creation_time": 1726952556.5748243,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-5999936.pt"
+                ]
+            },
+            {
+                "steps": 6574255,
+                "file_path": "results\\carPark\\CarBehaviour\\CarBehaviour-6574255.onnx",
+                "reward": null,
+                "creation_time": 1726953385.50353,
+                "auxillary_file_paths": [
+                    "results\\carPark\\CarBehaviour\\CarBehaviour-6574255.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6574255,
+            "file_path": "results\\carPark\\CarBehaviour.onnx",
+            "reward": null,
+            "creation_time": 1726953385.50353,
+            "auxillary_file_paths": [
+                "results\\carPark\\CarBehaviour\\CarBehaviour-6574255.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.10.0+cpu"
+    }
+}
