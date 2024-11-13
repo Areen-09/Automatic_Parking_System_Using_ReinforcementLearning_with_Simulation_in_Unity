@@ -120,21 +120,6 @@ After training, the model exhibits improved parking performance, achieving high 
 - Adapting to varied parking scenarios with limited sensor data.
 - Minimizing training time while achieving optimal performance.
 
-### Future Work
-- Integrate more complex scenarios, including moving obstacles.
-- Implement in real-world test vehicles for practical assessment.
-
----
-
-## Contributing
-
-We welcome contributions to this project! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`feature/YourFeature`).
-3. Commit your changes.
-4. Open a pull request.
-
 ---
 
 ## License
