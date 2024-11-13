@@ -54,7 +54,7 @@ The Unity simulation environment allows for testing in varied conditions, helpin
 ### Sample Video
 Check out a video demo of the model in action below:
 
-[![Watch the Demo Video](path/to/video-thumbnail.png)]("C:\Users\agraw\OneDrive\Pictures\Documents\Zoom\2024-09-22 14.33.21 Areen Agrawal's Zoom Meeting\video1276435030.mp4")
+https://github.com/user-attachments/assets/5f6428e9-9d3a-4bc5-a91c-9fc453cd853f
 
 ---
 
