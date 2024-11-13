@@ -13,8 +13,7 @@ Welcome to the **Automatic Parking System** project! This repository showcases a
 - [Usage](#usage)
 - [Simulation](#simulation)
 - [Results](#results)
-- [Challenges and Future Work](#challenges-and-future-work)
-- [Contributing](#contributing)
+- [Challenges](#challenges)
 - [License](#license)
 
 ---
@@ -54,20 +53,14 @@ This project aims to develop an autonomous parking system capable of performing 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Automatic_Parking_System_RL_Unity.git
+   git clone https://github.com/Areen-09/Automatic_Parking_System_RL_Unity.git
    cd Automatic_Parking_System_RL_Unity
    ```
 
-2. **Install Required Packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Setup Unity Environment**
+2. **Setup Unity Environment**
    - Download and install Unity (version X.X recommended).
-   - Open the Unity project located in the `unity/` folder.
 
-4. **Run the Simulation**
+3. **Run the Simulation**
    - Configure and execute the Unity environment to start the simulation.
 
 ---
@@ -108,13 +101,13 @@ After training, the model exhibits improved parking performance, achieving high 
 
 ![Training Results Graph](path/to/results-graph.png)
 
-- **Success Rate**: XX%
-- **Average Time per Parking**: XX seconds
-- **Collision Rate**: XX%
+- **Success Rate**: 66%
+- **Average Time per Parking**: 13 seconds
+- **Collision Rate**: 34%
 
 ---
 
-## Challenges and Future Work
+## Challenges 
 
 ### Challenges
 - Adapting to varied parking scenarios with limited sensor data.
