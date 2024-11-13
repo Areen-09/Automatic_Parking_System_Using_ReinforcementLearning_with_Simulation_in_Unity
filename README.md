@@ -9,7 +9,6 @@ Welcome to the **Automatic Parking System** project! This repository showcases a
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Simulation](#simulation)
 - [Results](#results)
 - [Challenges](#challenges)
 - [License](#license)
@@ -24,7 +23,7 @@ This project aims to develop an autonomous parking system capable of performing 
 - Develop a self-learning model for automated parking using RL.
 - Test and validate the model in Unity for real-world applicability.
 
-![Project Overview Image](path/to/overview-image.png)
+![image](https://github.com/user-attachments/assets/a4a0bc68-1770-4fd7-ad91-2922688c7601)
 
 ---
 
@@ -44,12 +43,6 @@ This project aims to develop an autonomous parking system capable of performing 
 - **Python**: Used for the RL model and backend processing.
 
 ---
-
-## Simulation
-
-The Unity simulation environment allows for testing in varied conditions, helping the RL agent to learn safe and efficient parking maneuvers.
-
-![Simulation Environment GIF](path/to/simulation-gif.gif)
 
 ### Sample Video
 Check out a video demo of the model in action below:
