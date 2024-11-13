@@ -9,8 +9,6 @@ Welcome to the **Automatic Parking System** project! This repository showcases a
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Simulation](#simulation)
 - [Results](#results)
 - [Challenges](#challenges)
