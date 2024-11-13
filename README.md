@@ -34,8 +34,6 @@ This project aims to develop an autonomous parking system capable of performing 
 - **Obstacle Avoidance**: Ensures the vehicle avoids nearby obstacles during parking.
 - **Urban Environment Testing**: Validates the model’s effectiveness across various urban parking scenarios.
 
-![Features Image](path/to/features-image.png)
-
 ---
 
 ## Technology Stack
@@ -56,15 +54,13 @@ The Unity simulation environment allows for testing in varied conditions, helpin
 ### Sample Video
 Check out a video demo of the model in action below:
 
-[![Watch the Demo Video](path/to/video-thumbnail.png)](path/to/demo-video.mp4)
+[![Watch the Demo Video](path/to/video-thumbnail.png)]("C:\Users\agraw\OneDrive\Pictures\Documents\Zoom\2024-09-22 14.33.21 Areen Agrawal's Zoom Meeting\video1276435030.mp4")
 
 ---
 
 ## Results
 
 After training, the model exhibits improved parking performance, achieving high success rates with reduced collision occurrences.
-
-![Training Results Graph](path/to/results-graph.png)
 
 - **Success Rate**: 66%
 - **Average Time per Parking**: 13 seconds
