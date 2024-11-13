@@ -1,7 +1,3 @@
-Here's a **README.md** template for your GitHub page for the *Automatic Parking System Using Reinforcement Learning with Simulation in Unity* project. Feel free to replace the placeholders for images, videos, and additional content as needed.
-
----
-
 # Automatic Parking System Using Reinforcement Learning with Simulation in Unity
 
 Welcome to the **Automatic Parking System** project! This repository showcases an autonomous vehicle parking solution, utilizing Reinforcement Learning (RL) and Genetic Algorithms (GA), and validated through simulation in Unity.
