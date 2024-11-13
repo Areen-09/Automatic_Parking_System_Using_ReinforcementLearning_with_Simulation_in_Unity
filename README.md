@@ -47,39 +47,6 @@ This project aims to develop an autonomous parking system capable of performing 
 
 ---
 
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Areen-09/Automatic_Parking_System_RL_Unity.git
-   cd Automatic_Parking_System_RL_Unity
-   ```
-
-2. **Setup Unity Environment**
-   - Download and install Unity (version X.X recommended).
-
-3. **Run the Simulation**
-   - Configure and execute the Unity environment to start the simulation.
-
----
-
-## Usage
-
-1. **Configure the RL Model**: Adjust parameters in `config.py` to modify the training setup.
-2. **Run Training**: Execute the RL training script:
-   ```bash
-   python train.py
-   ```
-3. **Visualize Results**: View results and improvements in Unity after each training session.
-
-*Sample Command Execution*:
-
-```bash
-python train.py --episodes 5000 --learning_rate 0.01
-```
-
----
-
 ## Simulation
 
 The Unity simulation environment allows for testing in varied conditions, helping the RL agent to learn safe and efficient parking maneuvers.
